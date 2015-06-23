@@ -1,12 +1,17 @@
 public class CalculadoraCientifica {
 
-public int soma(int a, int b){
-
-	
-
-return a + b;
 
 
-}
+/** Método para retorno a soma 
+
+  *   @return double - soma de numero real.
+*/
+
+	public double soma(double a, double b)
+	{
+         	
+		return a + b;
+
+	}
 	
 }
