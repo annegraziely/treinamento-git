@@ -1,3 +1,5 @@
+import java.lang.Math;
+
 public class CalculadoraCientifica {
 
 	/** Method: pow 
@@ -6,9 +8,9 @@ public class CalculadoraCientifica {
 	    param [out] expo - expoente
 	*/
 
-	public double pow(double base, double expo)
+	public double pow(double base, expo)
 	{
-		return base^expo;
+		return Math.pow(base, expo);
 	}
 	
 }
