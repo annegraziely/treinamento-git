@@ -19,4 +19,10 @@ public class CalculadoraCientifica {
 		println(result);
 	}
 	
+	double multiplicacao(double a, double b)
+	{
+		result = a*b;
+		println(result);
+	}
+	
 }
