@@ -24,5 +24,14 @@ public class CalculadoraCientifica {
 		result = a*b;
 		println(result);
 	}
+
+public int soma(int a, int b){
+
+	
+
+return a + b;
+
+
+}
 	
 }
