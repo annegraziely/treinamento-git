@@ -20,4 +20,9 @@ public class Calculadora {
 		return i/j;
 	}
 
+	public double pow(double base, double expo)
+	{
+		return base^expo;
+	}
+
 }
