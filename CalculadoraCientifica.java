@@ -13,4 +13,16 @@ public class CalculadoraCientifica {
 		return Math.pow(base, expo);
 	}
 	
+	double multiplicacao(double a, double b)
+	{
+		result = a*b;
+		println(result);
+	}
+	
+	double multiplicacao(double a, double b)
+	{
+		result = a*b;
+		println(result);
+	}
+	
 }
